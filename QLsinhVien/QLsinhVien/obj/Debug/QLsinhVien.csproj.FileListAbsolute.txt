@@ -1,0 +1,14 @@
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.csproj.AssemblyReference.cache
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.LoginForm.resources
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QuanLySinhVien.LopForm.resources
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.MainForm.resources
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.SinhVienForm.resources
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.Properties.Resources.resources
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.csproj.GenerateResource.cache
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.csproj.CoreCompileInputs.cache
+D:\QLSV\QLsinhVien\QLsinhVien\bin\Debug\QLsinhVien.exe.config
+D:\QLSV\QLsinhVien\QLsinhVien\bin\Debug\QLsinhVien.exe
+D:\QLSV\QLsinhVien\QLsinhVien\bin\Debug\QLsinhVien.pdb
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.exe
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.pdb
+D:\QLSV\QLsinhVien\QLsinhVien\obj\Debug\QLsinhVien.exe.config
